@@ -35,14 +35,14 @@ Nota: dentro de "TextReplacer\archivos" hay dos ficheros listos para poder usar 
   C:\>
 
 El programa también puede mostrar otros mensajes en los siguientes casos:
-• La cantidad de parámetros introducidos en la llamada es distinto a 4.
-• No se encuentra el fichero de origen y/o de destino.
-• No ha habido reemplazos porque el texto que se quería buscar no aparece en el fichero de origen.
-• No se tienen permisos para acceder o crear el fichero destino.
-• Cualquier otra excepción no prevista.
+- La cantidad de parámetros introducidos en la llamada es distinto a 4.
+- No se encuentra el fichero de origen y/o de destino.
+- No ha habido reemplazos porque el texto que se quería buscar no aparece en el fichero de origen.
+- No se tienen permisos para acceder o crear el fichero destino.
+- Cualquier otra excepción no prevista.
 
 # Requisitos adicionales para la implementación
-• La lógica no ha de recaer totalmente en el fichero program.cs. Se debe crear como mínimo una clase más que contenga parte de la lógica necesaria para implementar la funcionalidad.
-• El código debe ser claro y aplicar buenas prácticas de programación.
-• Crear pruebas unitarias que den cobertura al código implementado, se puede utilizar MSTest, NUnit o xUnit.
+- La lógica no ha de recaer totalmente en el fichero program.cs. Se debe crear como mínimo una clase más que contenga parte de la lógica necesaria para implementar la funcionalidad.
+- El código debe ser claro y aplicar buenas prácticas de programación.
+- Crear pruebas unitarias que den cobertura al código implementado, se puede utilizar MSTest, NUnit o xUnit.
 
