@@ -31,7 +31,9 @@ Nota: dentro de "TextReplacer\archivos" hay dos ficheros listos para poder usar 
 
 # Salida del programa
   C:\>miprograma.exe “c:/origen.txt” “c:/destino.txt” “auraportal” “ap”
+  
   Se han hecho 2 reemplazos
+  
   C:\>
 
 El programa también puede mostrar otros mensajes en los siguientes casos:
